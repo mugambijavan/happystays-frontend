@@ -42,4 +42,6 @@ Or you can access the backend code directly via this [LINK.](https://github.com/
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) 2023 GROUP 3
+Copyright (c)
+
+ 2023 GROUP 3
